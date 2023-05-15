@@ -11,7 +11,7 @@ The Game of Life is a cellular automaton created by British mathematician John C
 
 ## How to Play
 
-1. Install Python: The Game of Life is implemented in Python, so make sure you have Python installed on your computer. You can download Python from the official website: https://www.python.org/downloads/
+1. Install Jupyter Notebook: The Game of Life is implemented in Python Notebook .ipynb, so make sure you have jupyter installed on your computer. You can download Jupyter from the official website: [https://www.anaconda.com/](https://www.anaconda.com/)
 
 2. Clone the Repository: Clone this repository to your local machine using the following command:
    ```
@@ -23,10 +23,7 @@ The Game of Life is a cellular automaton created by British mathematician John C
    cd game-of-life
    ```
 
-4. Run the Game: Execute the game by running the Python script:
-   ```
-   python game_of_life.py
-   ```
+4. Run the Game: Execute the game by running the the Jupyter Notebook:
 
 5. Customize the Initial State (Optional): If you want to modify the initial state of the game, you can open the `game_of_life.py` file and modify the `grid` variable. Change the values to 1 for live cells and 0 for dead cells. You can experiment with different patterns and configurations.
 
